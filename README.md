@@ -1,6 +1,6 @@
 # Word2vec-based-Networks
 
-We generated the following two word2vec embeddings: ‘Embedding_v1’ in which synonymous terms of genes, diseases, and drugs were substituted by their preferred terms from external biomedical databases, and  ‘Embedding_v2’ for which the same preprocessing strategies and the same training process were applied but without replacing synonyms.
+We generated the following two word2vec embeddings: ‘Embedding_v1’ in which synonymous terms of genes, diseases, and drugs were substituted by their preferred terms from external biomedical databases, and  ‘Embedding_v2’ for which the same preprocessing strategies and the same training process were applied but without replacing synonyms.\
 The two generated embeddings are available for download under the following links:\
 [Embedding_v1](https://ebiomecon.genexplain.com/download/embedding_v1.bin)\
 [Embedding_v2](https://ebiomecon.genexplain.com/download/embedding_v2.bin)

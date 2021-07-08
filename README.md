@@ -31,7 +31,7 @@ else:
     print('False')
 ```
     
-## Get a word numerical vector od 300 dimensions
+## Get a word numerical vector of 300 dimensions
 ```python 
 vector= model.wv[word]
 ```
